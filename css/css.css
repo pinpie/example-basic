@@ -1,0 +1,7 @@
+article > header > h1 { font-size: 2rem; padding-bottom: 0.5rem; color: red;}
+article > header { padding-top: 0; padding-bottom: 0.1rem; margin-bottom: 1rem; border-bottom: 1px solid red; }
+h1 { font-weight: 500; font-size: 1.5rem; margin-top: 3rem; margin-bottom: 0.5rem; color: magenta;}
+h2 { font-weight: 500; font-size: 1.25rem; margin-top: 1rem; margin-bottom: 0.5rem; color: cyan;}
+h3 { font-weight: 500; font-style: italic; font-size: 1rem; margin-top: 1rem; margin-bottom: 0.5rem; color: pink;}
+p { margin-bottom: 0.5rem; color: gray;}
+a { color: green;}
